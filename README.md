@@ -313,4 +313,11 @@ This file describes the settings used in the Zed editor for a simple and efficie
 }
 ```
 
+## Credits
+
+This configuration was inspired by and adapted from the following repository:
+
+- [zed-101-setup](https://github.com/jellydn/zed-101-setup)
+- [Zed Editor Official Repository](https://github.com/zed-industries/zed)
+
 ### Keep these settings updated to ensure maximum productivity with Zed!
